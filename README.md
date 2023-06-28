@@ -1,3 +1,3 @@
 ### hey! i'm aum.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aumken)](https://github.com/anuraghazra/github-readme-stats)
+I'm a CS student @ UNC and I like to work on random projects that I find interesting. Feel free to contact me at aum@unc.edu!
