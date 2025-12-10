@@ -1,5 +1,3 @@
-[aumken.com](https://aumken.com)
-
 ### 👨‍💻 Projects
 - `ACL 2025` [INTERACT: Enabling Interactive, Question-Driven Learning in Large Language Models](https://aclanthology.org/2025.acl-long.441/)
 - [Classmate](https://classmate.lol): Schedule classes with friends  
@@ -17,4 +15,3 @@
 - [Flowscape](https://github.com/aumken/flowscape): Simulate fluid movement with Perlin noise on vector fields
 - [Enigma](https://github.com/aumken/enigma): Configure an Enigma machine with plugboard and rotor functionality
 - [Vigenere](https://github.com/aumken/vigenere): Decrypt Vigenere ciphers using a Kasiski examination
-
