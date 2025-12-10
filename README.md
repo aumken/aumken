@@ -1,5 +1,5 @@
 ### 👨‍💻 Projects
-- `ACL 2025` [INTERACT: Enabling Interactive, Question-Driven Learning in Large Language Models](https://aclanthology.org/2025.acl-long.441/)
+- [INTERACT](https://aclanthology.org/2025.acl-long.441/): Question-driven learning for LLMs
 - [Classmate](https://classmate.lol): Schedule classes with friends  
 - [Waffle](https://waffle-five.vercel.app): Chat with YouTube videos
 - [GPTube](https://gptu.be): Chat with YouTube videos v2
