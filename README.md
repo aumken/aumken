@@ -1,6 +1,6 @@
 [aumken.com](https://aumken.com)
 
-# 👨‍💻 Projects
+### 👨‍💻 Projects
 - `ACL 2025` [INTERACT: Enabling Interactive, Question-Driven Learning in Large Language Models](https://aclanthology.org/2025.acl-long.441/)
 - [Classmate](https://classmate.lol): Schedule classes with friends  
 - [Waffle](https://waffle-five.vercel.app): Chat with YouTube videos
